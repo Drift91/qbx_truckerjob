@@ -139,6 +139,7 @@ lib.callback.register('qbx_truckerjob:server:spawnVehicle', function(source, mod
             modLivery = 1,
             color1 = 122,
             color2 = 122,
+			fuelLevel = 100,
         }
     })
 
